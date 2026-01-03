@@ -1,0 +1,13 @@
+.list-group-item.completed {
+    text-decoration: line-through;
+    opacity: 0.6;
+}
+.list-group-item.high {
+    border-left: 5px solid #dc3545;
+}
+.list-group-item.medium {
+    border-left: 5px solid #ffc107;
+}
+.list-group-item.low {
+    border-left: 5px solid #198754;
+}
